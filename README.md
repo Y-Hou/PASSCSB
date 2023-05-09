@@ -9,8 +9,6 @@ The original results are provided (the three files ending with ".mat") in order 
 - bpara.m
 - ComUCB1.m
 - GreedySplit.m
-- Hindex.m
-- initialization.m
 - lil.m
 - main_iteration_exp1.m
 - main_iteration_exp2.m
@@ -18,7 +16,6 @@ The original results are provided (the three files ending with ".mat") in order 
 - PASCombUCB.m
 - plot_figures.m
 - pull_super.m
-- pull.m
 - experiment_results_reg_add_vs_Delta.mat
 - experiment_results_trials.mat
 - experiment_results_violation_trials.mat
